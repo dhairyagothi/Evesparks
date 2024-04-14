@@ -1,6 +1,6 @@
 import React from "react";
 import css from "./complete.css";
-import { FaFacebook } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa6";
 import { FiTwitter } from "react-icons/fi";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
