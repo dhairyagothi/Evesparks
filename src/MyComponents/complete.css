@@ -1011,14 +1011,21 @@
     overflow: hidden;
     text-overflow: ellipsis;
     margin-bottom: 2px;
+    
   }
   
+  .product-showcase .title{
+    text-align: center;
+  }
   .product-minimal .showcase-category {
     width: max-content;
     color: var(--davys-gray);
     font-size: var(--fs-8);
     text-transform: capitalize;
     margin-bottom: 3px;
+  }
+  .showcase-content .banner-btn{
+    margin-top: 17px;
   }
   
   .product-minimal .showcase-category:hover { color: var(--salmon-pink); }

@@ -82,9 +82,7 @@ function Product() {
             </div>
 
 
-            {/* <!--
-      - CATEGORY
-    --> */}
+            
 
 
 
@@ -100,7 +98,7 @@ function Product() {
 
                             <div class="product-showcase">
 
-                                <h2 class="title">New Arrivals</h2>
+                                <h3 class="title"><b><br/>Event Packs</b></h3>
 
                                 <div class="showcase-wrapper has-scrollbar">
 
@@ -109,20 +107,28 @@ function Product() {
                                         <div class="showcase">
 
                                             <a href="#" class="showcase-img-box">
-                                                {/* <img src="./assets/images/products/clothes-1.jpg" alt="relaxed short full sleeve t-shirt" width="70" class="showcase-img" /> */}
+                                                <img src="../image/b3.png" alt="wedding" width="70" class="showcase-img" />
                                             </a>
 
                                             <div class="showcase-content">
 
                                                 <a href="#">
-                                                    <h4 class="showcase-title">Relaxed Short full Sleeve T-Shirt</h4>
+                                                    <h4 class="showcase-title">Wedding Event Packs</h4>
                                                 </a>
 
-                                                <a href="#" class="showcase-category">Clothes</a>
-
+                                               <b> <a href="#" class="showcase-category">Complete Weeding pack</a></b>
+                                                includes : 
+                                                    Wedding Decor
+                                                    Wedding Catering
+                                                    Wedding Photography
+                                                    Wedding Event Planner
+                                                    And many more...
+                                                <br/>
                                                 <div class="price-box">
-                                                    <p class="price">Rs.45000.00/-</p>
-                                                    <del>Rs.12000.00/-</del>
+                                                    <p class="price"><br/>Find best Price</p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Quote now</a>
+                                                    
                                                 </div>
 
                                             </div>
