@@ -14,7 +14,7 @@ function Product() {
 
                             <div class="slider-item">
 
-                                 {/* <img src="../image/b1.jpg" alt="banner" class="banner-img"/>  */}
+                                 <img src="../image/b1.jpg" alt="banner" class="banner-img"/> 
 
                                 <div class="banner-content">
 
@@ -34,16 +34,16 @@ function Product() {
 
                             <div class="slider-item">
 
-                                {/* <img src="./assets/images/banner-2.jpg" alt="modern sunglasses" class="banner-img"> */}
+                                <img src="../image/b2.jpg" alt="banner" class="banner-img"/>
 
                                 <div class="banner-content">
 
                                     <p class="banner-subtitle">Trending Offers</p>
 
-                                    <h2 class="banner-title">Pre Wedding Shoot</h2>
+                                    <h2 class="banner-title">Concerts</h2>
 
                                     <p class="banner-text">
-                                        Get extra <b>10% off</b>on <br/><b>Pre Wedding Shoot</b>
+                                        Get extra <b>10% off</b>on <br/><b>Concerts Event</b>
                                     </p>
 
                                     <a href="#" class="banner-btn">Book now</a>
@@ -54,7 +54,7 @@ function Product() {
 
                             <div class="slider-item">
 
-                                {/* <img src="./assets/images/banner-3.jpg" alt="new fashion summer sale" class="banner-img"> */}
+                                <img src="../image/b3.png" alt="banner" class="banner-img"/>
 
                                 <div class="banner-content">
 

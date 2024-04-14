@@ -4,7 +4,8 @@ import { FaFacebook } from "react-icons/fa6";
 import { FiTwitter } from "react-icons/fi";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
-
+import { FiShoppingCart } from "react-icons/fi";
+import { GiHamburgerMenu } from "react-icons/gi";
 
 function Footer() {
     return (

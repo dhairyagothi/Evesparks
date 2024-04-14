@@ -9,6 +9,7 @@ import { IoPersonCircle } from "react-icons/io5";
 import { FiShoppingCart } from "react-icons/fi";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoMdSearch } from "react-icons/io";
+import { CgMenuBoxed } from "react-icons/cg";
 function Header() {
     return (
         <>
@@ -353,25 +354,21 @@ function Header() {
                     <button class="action-btn" data-mobile-menu-open-btn>
                     <GiHamburgerMenu />
                     </button>
-
                     <button class="action-btn">
-                        <ion-icon name="bag-handle-outline"></ion-icon>
+                            <IoPersonCircle />
+                            </button>
 
-                        <span class="count">0</span>
-                    </button>
+                            <button class="action-btn">
+                            <FaRegHeart />
+                                <span class="count">5</span>
+                            </button>
 
-                    <button class="action-btn">
-                        <ion-icon name="home-outline"></ion-icon>
-                    </button>
-
-                    <button class="action-btn">
-                        <ion-icon name="heart-outline"></ion-icon>
-
-                        <span class="count">0</span>
-                    </button>
-
-                    <button class="action-btn" data-mobile-menu-open-btn>
-                        <ion-icon name="grid-outline"></ion-icon>
+                            <button class="action-btn">
+                            <FiShoppingCart />
+                                <span class="count">0</span>
+                            </button>
+                    <button class="action-btn" >
+                    <CgMenuBoxed />
                     </button>
 
                 </div>
