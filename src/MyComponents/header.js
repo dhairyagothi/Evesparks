@@ -10,6 +10,7 @@ import { FiShoppingCart } from "react-icons/fi";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoMdSearch } from "react-icons/io";
 import { CgMenuBoxed } from "react-icons/cg";
+import { BsChatLeftDots } from "react-icons/bs";
 function Header() {
     return (
         <>
@@ -369,6 +370,11 @@ function Header() {
                             </button>
                     <button class="action-btn" >
                     <CgMenuBoxed />
+                    </button>
+                    <button class="action-btn" >
+                    <BsChatLeftDots />
+                    
+                    <span class="count">1</span>
                     </button>
 
                 </div>

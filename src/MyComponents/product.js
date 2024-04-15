@@ -143,15 +143,54 @@ function Product() {
 
                                             <div class="showcase-content">
 
-                                                <a href="#">
-                                                    <h4 class="showcase-title">Girls pnk Embro design Top</h4>
+                                            <a href="#">
+                                                    <h4 class="showcase-title">Birthday Event Packs</h4>
                                                 </a>
 
-                                                <a href="#" class="showcase-category">Clothes</a>
-
+                                               <b> <a href="#" class="showcase-category">Complete Birthday pack</a></b>
+                                                includes :
+                                                    Birthday Decor
+                                                    Birthday Catering
+                                                    Birthday Photography
+                                                    Birthday Event Planner
+                                                    And many more...
+                                                <br/>
                                                 <div class="price-box">
-                                                    <p class="price">Rs.61000.00/-</p>
-                                                    <del>Rs.9.00000/-</del>
+                                                    <p class="price"><br/>Find best Price</p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Quote now</a>
+                                                    
+                                                </div>
+
+                                        </div>
+                                        </div>
+
+                                        <div class="showcase">
+
+                                            <a href="#" class="showcase-img-box">
+                                                <img src="./assets/images/products/clothes-3.jpg" alt="black floral wrap midi skirt" class="showcase-img"
+                                        width="70" />
+                                            </a>
+
+                                            <div class="showcase-content">
+
+                                            <a href="#">
+                                                    <h4 class="showcase-title">Concert Packs</h4>
+                                                </a>
+
+                                               <b> <a href="#" class="showcase-category">Complete Concert pack</a></b>
+                                                includes :
+                                                    Concert Decor
+                                                    Concert Catering
+                                                    Concert Photography
+                                                    Concert Event Planner
+                                                    And many more...
+                                                <br/>
+                                                <div class="price-box">
+                                                    <p class="price"><br/>Find best Price</p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Quote now</a>
+                                                    
                                                 </div>
 
                                             </div>
@@ -161,47 +200,29 @@ function Product() {
                                         <div class="showcase">
 
                                             <a href="#" class="showcase-img-box">
-                                                {/* <img src="./assets/images/products/clothes-3.jpg" alt="black floral wrap midi skirt" class="showcase-img"
-                                        // width="70" /> */}
+                                                <img src="./assets/images/products/shirt-1.jpg" alt="pure garment dyed cotton shirt" class="showcase-img" width="70" />
+                                                 
                                             </a>
 
                                             <div class="showcase-content">
 
-                                                <a href="#">
-                                                    <h4 class="showcase-title">Black Floral Wrap Midi Skirt</h4>
+                                            <a href="#">
+                                                    <h4 class="showcase-title">Corporate Event Packs</h4>
                                                 </a>
 
-                                                <a href="#" class="showcase-category">Clothes</a>
-
+                                               <b> <a href="#" class="showcase-category">Complete Corporate Event pack</a></b>
+                                                includes : 
+                                                    Corporate Event Decor
+                                                    Corporate Event Photography
+                                                    Corporate Event Planner
+                                                    And many more...
+                                                <br/>
                                                 <div class="price-box">
-                                                    <p class="price">Rs.76000.00/-</p>
-                                                    <del>Rs.25000.00/-</del>
+                                                    <p class="price"><br/>Find best Price</p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Quote now</a>
+                                                    
                                                 </div>
-
-                                            </div>
-
-                                        </div>
-
-                                        <div class="showcase">
-
-                                            <a href="#" class="showcase-img-box">
-                                                {/* <img src="./assets/images/products/shirt-1.jpg" alt="pure garment dyed cotton shirt" class="showcase-img" */}
-                                                {/* // width="70" /> */}
-                                            </a>
-
-                                            <div class="showcase-content">
-
-                                                <a href="#">
-                                                    <h4 class="showcase-title">Pure Garment Dyed Cotton Shirt</h4>
-                                                </a>
-
-                                                <a href="#" class="showcase-category">Mens Fashion</a>
-
-                                                <div class="price-box">
-                                                    <p class="price">Rs.68000.00/-</p>
-                                                    <del>Rs.31000.00/-</del>
-                                                </div>
-
                                             </div>
 
                                         </div>
@@ -219,17 +240,24 @@ function Product() {
 
                                             <div class="showcase-content">
 
-                                                <a href="#">
-                                                    <h4 class="showcase-title">MEN Yarn Fleece Full-Zip Jacket</h4>
+                                            <a href="#">
+                                                    <h4 class="showcase-title"> Festival Event Packs</h4>
                                                 </a>
 
-                                                <a href="#" class="showcase-category">Winter wear</a>
-
+                                               <b> <a href="#" class="showcase-category">Complete Festival pack</a></b>
+                                                includes :
+                                                    Festival Decor
+                                                    Festival Food Catering
+                                                    Festival Photography
+                                                    Festival Event Planner
+                                                    And many more...
+                                                <br/>
                                                 <div class="price-box">
-                                                    <p class="price">Rs.61000.00/-</p>
-                                                    <del>Rs.11000.00/-</del>
+                                                    <p class="price"><br/>Find best Price</p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Quote now</a>
+                                                    
                                                 </div>
-
                                             </div>
 
                                         </div>
@@ -243,17 +271,24 @@ function Product() {
 
                                             <div class="showcase-content">
 
-                                                <a href="#">
-                                                    <h4 class="showcase-title">Mens Winter Leathers Jackets</h4>
+                                            <a href="#">
+                                                    <h4 class="showcase-title">Meetings</h4>
                                                 </a>
 
-                                                <a href="#" class="showcase-category">Winter wear</a>
-
+                                               <b> <a href="#" class="showcase-category">Complete Corporate meeting pack</a></b>
+                                                includes : 
+                                                    Corporate Meeting ancors 
+                                                    Corporate Meeting Decor
+                                                    Corporate Meeting Photography
+                                                    Corporate Meeting Event Planner
+                                                    And many more...
+                                                <br/>
                                                 <div class="price-box">
-                                                    <p class="price">Rs.32000.00/-</p>
-                                                    <del>Rs.20000.00/-</del>
+                                                    <p class="price"><br/>Find best Price</p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Quote now</a>
+                                                    
                                                 </div>
-
                                             </div>
 
                                         </div>
@@ -267,17 +302,19 @@ function Product() {
 
                                             <div class="showcase-content">
 
-                                                <a href="#">
-                                                    <h4 class="showcase-title">Mens Winter Leathers Jackets</h4>
+                                            <a href="#">
+                                                    <h4 class="showcase-title">Customized Event Packs</h4>
                                                 </a>
 
-                                                <a href="#" class="showcase-category">Jackets</a>
-
+                                               <b> <a href="#" class="showcase-category">Customize your pack</a></b>
+                                                Make your own pack according to your budget
+                                                <br/>
                                                 <div class="price-box">
-                                                    <p class="price">Rs.50000.00/-</p>
-                                                    <del>Rs.25000.00/-</del>
+                                                    <p class="price"><br/> Customize your pack at best price </p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Customized pack now</a>
+                                                    
                                                 </div>
-
                                             </div>
 
                                         </div>
@@ -290,18 +327,24 @@ function Product() {
                                             </a>
 
                                             <div class="showcase-content">
-
-                                                <a href="#">
-                                                    <h4 class="showcase-title">Better Basics French Terry Sweatshorts</h4>
+                                            <a href="#">
+                                                    <h4 class="showcase-title">Evespark's Packs</h4>
                                                 </a>
 
-                                                <a href="#" class="showcase-category">Shorts</a>
-
+                                               <b> <a href="#" class="showcase-category">Evespark's pack</a></b>
+                                                includes : 
+                                                     Decor
+                                                     Catering
+                                                    Photography
+                                                     Event Planner
+                                                    And many more...
+                                                <br/>
                                                 <div class="price-box">
-                                                    <p class="price">Rs.20000.00/-</p>
-                                                    <del>Rs.10000.00/-</del>
+                                                    <p class="price"><br/>Find best Price</p>
+                                                    
+                                                    <a href="#" class="banner-btn"><br/>Get Quote now</a>
+                                                    
                                                 </div>
-
                                             </div>
 
                                         </div>
@@ -314,7 +357,7 @@ function Product() {
 
                             <div class="product-showcase">
 
-                                <h2 class="title">Trending</h2>
+                                <h2 class="title"><b>Search Near Your location</b></h2>
 
                                 <div class="showcase-wrapper  has-scrollbar">
 
@@ -990,109 +1033,9 @@ function Product() {
 
 
 
-                                        <div class="showcase">
+                                       
 
-                                            <div class="showcase-banner">
-                                                {/* <img src="./assets/images/products/shirt-1.jpg" alt="Pure Garment Dyed Cotton Shirt" class="product-img default"
-                                width="300" /> */}
-                                                {/* <img src="./assets/images/products/shirt-2.jpg" alt="Pure Garment Dyed Cotton Shirt" class="product-img hover"
-                                width="300" /> */}
-
-                                                <p class="showcase-badge angle black">sale</p>
-
-                                                <div class="showcase-actions">
-                                                    <button class="btn-action">
-                                                        <ion-icon name="heart-outline"></ion-icon>
-                                                    </button>
-
-                                                    <button class="btn-action">
-                                                        <ion-icon name="eye-outline"></ion-icon>
-                                                    </button>
-
-                                                    <button class="btn-action">
-                                                        <ion-icon name="repeat-outline"></ion-icon>
-                                                    </button>
-
-                                                    <button class="btn-action">
-                                                        <ion-icon name="bag-add-outline"></ion-icon>
-                                                    </button>
-                                                </div>
-                                            </div>
-
-                                            <div class="showcase-content">
-                                                <a href="#" class="showcase-category">shirt</a>
-
-                                                <h3>
-                                                    <a href="#" class="showcase-title">Pure Garment Dyed Cotton Shirt</a>
-                                                </h3>
-
-                                                <div class="showcase-rating">
-                                                    <ion-icon name="star"></ion-icon>
-                                                    <ion-icon name="star"></ion-icon>
-                                                    <ion-icon name="star"></ion-icon>
-                                                    <ion-icon name="star-outline"></ion-icon>
-                                                    <ion-icon name="star-outline"></ion-icon>
-                                                </div>
-
-                                                <div class="price-box">
-                                                    <p class="price">Rs.45000.00/-</p>
-                                                    <del>Rs.56000.00/-</del>
-                                                </div>
-
-                                            </div>
-
-                                        </div>
-
-                                        <div class="showcase">
-
-                                            <div class="showcase-banner">
-                                                {/* <img src="./assets/images/products/jacket-5.jpg" alt="MEN Yarn Fleece Full-Zip Jacket" class="product-img default"
-                                width="300" /> */}
-                                                {/* <img src="./assets/images/products/jacket-6.jpg" alt="MEN Yarn Fleece Full-Zip Jacket" class="product-img hover"
-                                width="300" /> */}
-
-                                                <div class="showcase-actions">
-                                                    <button class="btn-action">
-                                                        <ion-icon name="heart-outline"></ion-icon>
-                                                    </button>
-
-                                                    <button class="btn-action">
-                                                        <ion-icon name="eye-outline"></ion-icon>
-                                                    </button>
-
-                                                    <button class="btn-action">
-                                                        <ion-icon name="repeat-outline"></ion-icon>
-                                                    </button>
-
-                                                    <button class="btn-action">
-                                                        <ion-icon name="bag-add-outline"></ion-icon>
-                                                    </button>
-                                                </div>
-                                            </div>
-
-                                            <div class="showcase-content">
-                                                <a href="#" class="showcase-category">Jacket</a>
-
-                                                <h3>
-                                                    <a href="#" class="showcase-title">MEN Yarn Fleece Full-Zip Jacket</a>
-                                                </h3>
-
-                                                <div class="showcase-rating">
-                                                    <ion-icon name="star"></ion-icon>
-                                                    <ion-icon name="star"></ion-icon>
-                                                    <ion-icon name="star"></ion-icon>
-                                                    <ion-icon name="star-outline"></ion-icon>
-                                                    <ion-icon name="star-outline"></ion-icon>
-                                                </div>
-
-                                                <div class="price-box">
-                                                    <p class="price">Rs.58000.00/-</p>
-                                                    <del>Rs.65000.00/-</del>
-                                                </div>
-
-                                            </div>
-
-                                        </div>
+                                       
 
                                         <div class="showcase">
 
